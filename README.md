@@ -1,2 +1,6 @@
-# Git-experiment-file
-Fetch and rebase experiment 
+## My goals
+-Improve programming 
+-Build real-world projects
+-contribute to open source
+-Become developer 
+
